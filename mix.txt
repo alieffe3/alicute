@@ -14,3 +14,12 @@ trojan://ALi198237@104.16.90.245:443?path=%2F%3Fed%3D2560&security=tls&host=yagh
 trojan://ALi198237@104.24.179.180:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 2
 trojan://ALi198237@104.16.37.70:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 3
 trojan://ALi198237@104.24.159.176:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 4
+
+
+trojan://zc_+q1]RP7skKMK@b0bd82ab-mute-rice-e2c8.alieffe72.workers.dev:443?path=%2FtrOcJj2N2MhkWAsqEm%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=b0bd82ab-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=B0bd82Ab-MUTe-ricE-E2C8.aLIEffe72.WOrKErS.DEV#%F0%9F%92%A6+1+-+Trojan+-+Domain+%3A+443
+trojan://zc_+q1]RP7skKMK@104.21.68.135:443?path=%2Ftrb3sVaHb04XBtO9qJ%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=b0bd82ab-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=B0bd82ab-MuTE-RicE-E2c8.alIEffe72.worKErS.DEv#%F0%9F%92%A6+3+-+Trojan+-+IPv4+%3A+443
+trojan://zc_+q1]RP7skKMK@[2606:4700:3033::ac43:c3e9]:443?path=%2FtrGzv4TlGJikzwyzxO%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=b0bd82ab-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=B0BD82Ab-mUTe-ricE-E2c8.aliEFFe72.WOrkERs.deV#%F0%9F%92%A6+6+-+Trojan+-+IPv6+%3A+443
+trojan://zc_+q1]RP7skKMK@172.67.195.233:8443?path=%2FtrwF5At6dNRMx2uKXJ%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=b0bd82ab-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=B0BD82Ab-mutE-rIcE-e2c8.alIeffe72.workeRs.deV#%F0%9F%92%A6+10+-+Trojan+-+IPv4+%3A+8443
+trojan://zc_+q1]RP7skKMK@[2606:4700:3035::6815:4487]:2087?path=%2Ftr49COfdmrIQsOpW8A%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=b0bd82ab-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=B0bd82aB-MutE-rICe-E2c8.alieffE72.WoRKErS.dEv#%F0%9F%92%A6+29+-+Trojan+-+IPv6+%3A+2087
+trojan://zc_+q1]RP7skKMK@www.speedtest.net:80?path=%2FtrJZ5pUFUNKPQ3a0jH%3Fed%3D2560&security=none&host=b0bd82ab-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+38+-+Trojan+-+Domain+%3A+80
+trojan://zc_+q1]RP7skKMK@[2606:4700:3033::ac43:c3e9]:80?path=%2FtrYtlh3S1lyI4VMCVB%3Fed%3D2560&security=none&host=b0bd82ab-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+42+-+Trojan+-+IPv6+%3A+80
