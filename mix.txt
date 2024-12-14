@@ -11,7 +11,7 @@ hysteria2://KevinZakarian@kevin.serverv.net:8443?&insecure=1&obfs=salamander&obf
 
 warp://188.114.98.183:4233/?ifp=5-10#1 all warp
 warp://188.114.97.93:7152/?ifp=5-10#2 all warp
-warp://[2606:4700:d0::5510:941f:c758:c906]:3581/?ifp=5-10#3mci warp
+warp://[2606:4700:d0::5510:941f:c758:c906]:3581/?ifp=5-10#3 mci warp
 warp://[2606:4700:d0::1969:99d3:3661:48]:3581/?ifp=5-10#4 mci warp
 
 trojan://ALi198237@104.16.90.245:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 1
