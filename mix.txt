@@ -1,13 +1,3 @@
-///profile-title: base64:8J+UpSBXQVJQIPCflKU=
-//profile-update-interval: 24
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/hiddify
-//profile-web-page-url: https://hiddify.com
-
-warp://188.114.98.183:4233?ifp=40-80&ifps=40-100#m4
-warp://[2606:4700:d0::5510:941f:c758:c906]:3581#LocalIP
-
-
 hy2://a20e411bdcb3f2f1@94.228.164.226:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f6d407e645e57cac#%F0%9F%87%B8%F0%9F%87%AA%20%280%29
 hy2://a20e411bdcb3f2f1@[2a0b:4140:915d::2]:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f6d407e645e57cac#%F0%9F%87%B8%F0%9F%87%AA%20%281%29
 hy2://062c01693a7cc6ac@150.241.85.155:22211/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=e36216019498c424#%F0%9F%87%B8%F0%9F%87%AA%20%282%29
