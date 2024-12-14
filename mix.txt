@@ -15,15 +15,15 @@ trojan://ALi198237@104.16.37.70:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi
 trojan://ALi198237@104.24.159.176:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 4
 
 
-trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:443?path=%2FtrD1LfngjlF6ToTvWq%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543e4-mUtE-rIcE-e2C8.aLiEFFE72.workERs.DeV#%F0%9F%92%A6+1+-+Trojan+-+Domain+%3A+443
-trojan://RP7skKMK@www.speedtest.net:443?path=%2FtrBpok7M41AghECPBq%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543E4-mUte-RIcE-E2C8.alIeFfE72.WoRKErS.DEv#%F0%9F%92%A6+2+-+Trojan+-+Domain+%3A+443
-trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:443?path=%2Ftr9oZlyEZ72mJp1Wo2%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543E4-muTE-rICE-E2C8.ALIEFFe72.WOrKERs.dEv#%F0%9F%92%A6+5+-+Trojan+-+IPv6+%3A+443
-trojan://RP7skKMK@172.67.195.233:80?path=%2Ftr2yRralagWtluIfRu%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+9+-+Trojan+-+IPv4+%3A+80
-trojan://RP7skKMK@[2606:4700:3035::6815:4487]:80?path=%2FtrZj7hCNhpMpdwDZr1%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+12+-+Trojan+-+IPv6+%3A+80
-trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:8080?path=%2Ftrco39V9cKPRqtO9Cv%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+13+-+Trojan+-+Domain+%3A+8080
-trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:8080?path=%2Ftrgx6AMTs3WnOsQd7N%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+17+-+Trojan+-+IPv6+%3A+8080
-trojan://RP7skKMK@104.21.68.135:2052?path=%2FtrQ6C5IBLvK8RCVSpO%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+22+-+Trojan+-+IPv4+%3A+2052
-trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:2086?path=%2Ftraa6YYdsmZFEm8JgV%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+31+-+Trojan+-+Domain+%3A+2086
-trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:8880?path=%2Ftr6GSVQ4prXpYuO7Ns%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+47+-+Trojan+-+IPv6+%3A+8880
-trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:8880?path=%2FtrZxabqkEkOmC6Vfgq%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+43+-+Trojan+-+Domain+%3A+8880
-trojan://RP7skKMK@www.speedtest.net:2095?path=%2FtrGzxIk9VIsxmTmlZl%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#%F0%9F%92%A6+38+-+Trojan+-+Domain+%3A+2095
+trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:443?path=%2FtrD1LfngjlF6ToTvWq%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543e4-mUtE-rIcE-e2C8.aLiEFFE72.workERs.DeV#all trojan 5
+trojan://RP7skKMK@www.speedtest.net:443?path=%2FtrBpok7M41AghECPBq%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543E4-mUte-RIcE-E2C8.alIeFfE72.WoRKErS.DEv#all trojan 6
+trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:443?path=%2Ftr9oZlyEZ72mJp1Wo2%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543E4-muTE-rICE-E2C8.ALIEFFe72.WOrKERs.dEv#mci trojan 1
+trojan://RP7skKMK@172.67.195.233:80?path=%2Ftr2yRralagWtluIfRu%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 7
+trojan://RP7skKMK@[2606:4700:3035::6815:4487]:80?path=%2FtrZj7hCNhpMpdwDZr1%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#mci trojan 2
+trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:8080?path=%2Ftrco39V9cKPRqtO9Cv%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 8
+trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:8080?path=%2Ftrgx6AMTs3WnOsQd7N%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#mci trojan 3
+trojan://RP7skKMK@104.21.68.135:2052?path=%2FtrQ6C5IBLvK8RCVSpO%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 9
+trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:2086?path=%2Ftraa6YYdsmZFEm8JgV%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 10
+trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:8880?path=%2Ftr6GSVQ4prXpYuO7Ns%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#mci trojan 4
+trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:8880?path=%2FtrZxabqkEkOmC6Vfgq%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 11
+trojan://RP7skKMK@www.speedtest.net:2095?path=%2FtrGzxIk9VIsxmTmlZl%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 12
