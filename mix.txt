@@ -1,9 +1,9 @@
-hy2://a20e411bdcb3f2f1@94.228.164.226:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f6d407e645e57cac#%F0%9F%87%B8%F0%9F%87%AA%20%280%29
-hy2://a20e411bdcb3f2f1@[2a0b:4140:915d::2]:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f6d407e645e57cac#%F0%9F%87%B8%F0%9F%87%AA%20%281%29
-hy2://062c01693a7cc6ac@150.241.85.155:22211/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=e36216019498c424#%F0%9F%87%B8%F0%9F%87%AA%20%282%29
-hy2://062c01693a7cc6ac@[2a0b:4140:cd98::2]:22211/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=e36216019498c424#%F0%9F%87%B8%F0%9F%87%AA%20%283%29
-hy2://9c8734a9fb5e1344@150.241.85.156:33311/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=b80d61c718c07f62#%F0%9F%87%B8%F0%9F%87%AA%20%284%29
-hy2://9c8734a9fb5e1344@[2a0b:4140:cd99::2]:33311/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=b80d61c718c07f62#%F0%9F%87%B8%F0%9F%87%AA%20%285%29
+hy2://5a072771500faceb@150.241.77.174:33344/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f64fc97d84ec14cf#%F0%9F%87%B8%F0%9F%87%AA
+hy2://5a072771500faceb@[2a0b:4140:e6c5::2]:33344/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f64fc97d84ec14cf#%F0%9F%87%B8%F0%9F%87%AA%20%281%29
+hy2://36a78e623720090d@150.241.77.178:22233/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=108ecb57dc7a7694#%F0%9F%87%B8%F0%9F%87%AA%20%282%29
+hy2://36a78e623720090d@[2a0b:4140:e6c6::2]:22233/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=108ecb57dc7a7694#%F0%9F%87%B8%F0%9F%87%AA%20%283%29
+hy2://c76f08e20fb6368b@150.241.77.182:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=64da92df31fc63c1#%F0%9F%87%B8%F0%9F%87%AA%20%284%29
+hy2://c76f08e20fb6368b@[2a0b:4140:e6c7::2]:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=64da92df31fc63c1#%F0%9F%87%B8%F0%9F%87%AA%20%285%29
 
 hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#KevinVPN
 hysteria2://KevinZakarian@kevin.serverv.net:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#KevinVPN
