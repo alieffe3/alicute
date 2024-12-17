@@ -1,5 +1,4 @@
-hy2://2IkEzWgEX4@93.127.223.149:443?security=tls&obfs=salamander&obfs-password=MessageieTyimeParsV2&insecure=1&sni=www.google.com#hysteria 1
-hy2://3ff3c0c4-02a5-4021-ac52-f592cb8351e0@188.68.240.161:27425/?insecure=1&sni=www.bing.com#hysteria 2
+
 
 hy2://5a072771500faceb@150.241.77.174:33344/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f64fc97d84ec14cf#%F0%9F%87%B8%F0%9F%87%AA
 hy2://5a072771500faceb@[2a0b:4140:e6c5::2]:33344/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f64fc97d84ec14cf#%F0%9F%87%B8%F0%9F%87%AA%20%281%29
