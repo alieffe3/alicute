@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Tahoma, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(45deg, #ff6b98, #8f42fb);
+        }
+
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            width: 90%;
+            max-width: 400px;
+            text-align: center;
+            position: relative;
+        }
+
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 5px solid white;
+            position: absolute;
+            top: -75px;
+            left: 50%;
+            transform: translateX(-50%);
+            object-fit: cover;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            margin-top: 60px;
+            color: #333;
+            font-size: 2rem;
+            animation: bounce 2s infinite;
+        }
+
+        .message {
+            margin: 1rem 0;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .countdown {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .countdown-item {
+            background: #f8f1ff;
+            padding: 1rem;
+            border-radius: 10px;
+        }
+
+        .number {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #8f42fb;
+        }
+
+        .label {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 0.5rem;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-20px);
+            }
+            60% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .confetti {
+            position: fixed;
+            width: 10px;
+            height: 10px;
+            background: #ff6b98;
+            animation: confetti 5s ease-in-out infinite;
+        }
+
+        @keyframes confetti {
+            0% {
+                transform: translateY(0) rotate(0deg);
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(100vh) rotate(720deg);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img src="https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/IMG_20240728_191447_963.jpg" alt="تصویر تولد" class="profile-img">
+        <h1>تولدت مبارک!</h1>
+        <p class="message">امیدوارم سال جدید زندگیت پر از شادی و موفقیت باشه</p>
+        
+        <div class="countdown">
+            <div class="countdown-item">
+                <div class="number" id="days">0</div>
+                <div class="label">روز</div>
+            </div>
+            <div class="countdown-item">
+                <div class="number" id="hours">0</div>
+                <div class="label">ساعت</div>
+            </div>
+            <div class="countdown-item">
+                <div class="number" id="minutes">0</div>
+                <div class="label">دقیقه</div>
+            </div>
+            <div class="countdown-item">
+                <div class="number" id="seconds">0</div>
+                <div class="label">ثانیه</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // تنظیم تاریخ تولد
+        const birthday = new Date('2025-01-01');
+
+        function updateCountdown() {
+            const now = new Date().getTime();
+            const distance = birthday.getTime() - now;
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            document.getElementById('days').textContent = days;
+            document.getElementById('hours').textContent = hours;
+            document.getElementById('minutes').textContent = minutes;
+            document.getElementById('seconds').textContent = seconds;
+        }
+
+        // بروزرسانی روزشمار هر ثانیه
+        setInterval(updateCountdown, 1000);
+        updateCountdown();
+
+        // اضافه کردن کانفتی‌ها
+        function createConfetti() {
+            const confetti = document.createElement('div');
+            confetti.classList.add('confetti');
+            confetti.style.left = Math.random() * 100 + 'vw';
+            confetti.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
+            document.body.appendChild(confetti);
+            
+            setTimeout(() => {
+                confetti.remove();
+            }, 5000);
+        }
+
+        setInterval(createConfetti, 300);
+    </script>
+</body>
+</html>
