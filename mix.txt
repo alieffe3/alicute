@@ -29,5 +29,3 @@ trojan://RP7skKMK@www.speedtest.net:2095?path=%2FtrGzxIk9VIsxmTmlZl%3Fed%3D2560&
 
 
 vless://f23db53e-cc39-414a-9d21-d947ca870f4e@nazist.pages.dev:443?encryption=none&security=tls&sni=nazist.pages.dev&fp=randomized&type=ws&host=nazist.pages.dev&path=%2F%3Fed%3D2560#edge
-
-vless://226ee7b1-23af-4718-a02f-dca9452bb52f@good.hadis-vpm-f17.workers.dev:443?encryption=none&security=tls&sni=good.hadis-vpm-f17.workers.dev&fp=randomized&type=ws&host=good.hadis-vpm-f17.workers.dev&path=%2F%3Fed%3D2048#good
