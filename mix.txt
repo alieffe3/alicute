@@ -5,8 +5,8 @@ hy2://36a78e623720090d@[2a0b:4140:e6c6::2]:22233/?insecure=1&sni=www.google.com&
 hy2://c76f08e20fb6368b@150.241.77.182:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=64da92df31fc63c1#%F0%9F%87%B8%F0%9F%87%AA%20%284%29
 hy2://c76f08e20fb6368b@[2a0b:4140:e6c7::2]:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=64da92df31fc63c1#%F0%9F%87%B8%F0%9F%87%AA%20%285%29
 
-hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#KevinVPN
 
+hysteria2://Telegram:%40KevinZakarian@kevin.iserver.store:8443?obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#KevinVPN
 
 trojan://ALi198237@104.16.90.245:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 1
 trojan://ALi198237@104.24.179.180:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 2
