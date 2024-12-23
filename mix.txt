@@ -35,3 +35,9 @@ vless://f23db53e-cc39-414a-9d21-d947ca870f4e@104.24.145.95:443?path=%2F%3Fed%3D2
 vless://f23db53e-cc39-414a-9d21-d947ca870f4e@104.16.99.92:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 4
 vless://f23db53e-cc39-414a-9d21-d947ca870f4e@104.24.151.208:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 5
 vless://f23db53e-cc39-414a-9d21-d947ca870f4e@190.93.244.27:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 6
+
+
+hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#Tel1
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-sgsg.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel2
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-hkhk.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel3
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-jpjp.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel4
