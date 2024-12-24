@@ -49,3 +49,11 @@ hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41419/
 hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41369/#China4
 hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41565/#China5
 hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41338/#China6
+
+
+hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41550/#China7
+hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41550/#China8
+hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41550/#China9
+hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41176/#China10
+hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41213/#China11
+hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41249/#China12
