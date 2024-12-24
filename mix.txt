@@ -41,3 +41,11 @@ hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&inse
 hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-sgsg.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel2
 hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-hkhk.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel3
 hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-jpjp.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel4
+
+
+hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41419/#China1
+hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41419/#China2
+hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41419/#China3
+hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41369/#China4
+hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41565/#China5
+hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41338/#China6
