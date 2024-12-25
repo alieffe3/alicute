@@ -42,6 +42,7 @@ hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-sgsg.aikunapp.com:5001?secu
 hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-hkhk.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel3
 hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-jpjp.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel4
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:5564?security=tls&alpn=h3&insecure=1&sni=www.bing.com#Tel5
+hysteria2://ParsV2rayIR@Host.ParsV2ray.Site:2030?security=tls&obfs=salamander&obfs-password=ParsV2rayIR%3AAccPermium&insecure=1&sni=www.google.com#Tel6 Germany
 
 
 hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41419/#China1
