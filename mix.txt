@@ -60,6 +60,3 @@ hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41176/
 hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41213/#China11
 hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41249/#China12
 
-
-hy2://123456@192.3.85.237:443/?insecure=1&sni=bing.com#Mosi 1
-hy2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@151.249.104.35:34623/?insecure=1&sni=zula.ir#Mosi 2
