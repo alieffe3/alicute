@@ -10,6 +10,8 @@ hysteria2://Telegram:%40KevinZakarian@kevin.iserver.store:8443?obfs=salamander&o
 
 vless://RAKETA_283971@185.21.14.21:443?type=tcp&security=reality&fp=chrome&pbk=--ogEdsaWq3RzQesr0k6GOEwoQ4Zn_DI57DiEShIdAE&sni=yandex.eu&sid=ffffffffff&spx=%2F#TelBot🇳🇱
 
+hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:15435?security=tls&alpn=h3&insecure=1&sni=www.bing.com#tel
+
 trojan://ALi198237@104.16.90.245:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 1
 trojan://ALi198237@104.24.179.180:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 2
 trojan://ALi198237@104.16.37.70:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 3
