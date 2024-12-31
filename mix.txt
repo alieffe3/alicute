@@ -72,3 +72,16 @@ hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22028/#
 hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22722/#new4
 hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-kr.legeth.xyz:22207/#new5
 hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-uk.legeth.xyz:22308/#new6
+
+
+vmess://aafa1d92-e6b0-473e-8b08-ec2ca71efeb1@yx1.changyouVPN.top:8880?encryption=auto&host=mg.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://aafa1d92-e6b0-473e-8b08-ec2ca71efeb1@yx1.changyouVPN.top:8880?encryption=auto&host=mg.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://aafa1d92-e6b0-473e-8b08-ec2ca71efeb1@yx1.changyouVPN.top:8880?encryption=auto&host=adly.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://aafa1d92-e6b0-473e-8b08-ec2ca71efeb1@yx1.changyouVPN.top:8880?encryption=auto&host=yg.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://aafa1d92-e6b0-473e-8b08-ec2ca71efeb1@yx1.changyouVPN.top:8880?encryption=auto&host=yd.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://aafa1d92-e6b0-473e-8b08-ec2ca71efeb1@yx3.changyouVPN.top:8880?encryption=auto&host=yd.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://1206f13c-36e4-4539-bccd-93a724c85389@yx1.changyouVPN.top:8880?encryption=auto&host=mg.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://1206f13c-36e4-4539-bccd-93a724c85389@yx1.changyouVPN.top:8880?encryption=auto&host=adly.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://1206f13c-36e4-4539-bccd-93a724c85389@yx1.changyouVPN.top:8880?encryption=auto&host=yd.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://1206f13c-36e4-4539-bccd-93a724c85389@yx2.changyouVPN.top:8880?encryption=auto&host=yd.changyouVPN.top&path=%2F&type=ws#31-01-2025
+vmess://1206f13c-36e4-4539-bccd-93a724c85389@yx1.changyouVPN.top:8880?encryption=auto&host=yd.changyouVPN.top&path=%2F&type=ws#31-01-2025
