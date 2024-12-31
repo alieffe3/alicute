@@ -8,7 +8,7 @@ hy2://c76f08e20fb6368b@[2a0b:4140:e6c7::2]:11122/?insecure=1&sni=www.google.com&
 
 hysteria2://Telegram:%40KevinZakarian@kevin.iserver.store:8443?obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#KevinVPN
 
-vless://RAKETA_283971@185.21.14.21:443?type=tcp&security=reality&fp=chrome&pbk=--ogEdsaWq3RzQesr0k6GOEwoQ4Zn_DI57DiEShIdAE&sni=yandex.eu&sid=ffffffffff&spx=%2F#TelBot🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVE1JaTFzRXBaUGlZSGJvRVc3WDgw@176.124.221.3:10488/?outline=1#TelBot 🇩🇪
 
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:15435?security=tls&alpn=h3&insecure=1&sni=www.bing.com#tel
 
