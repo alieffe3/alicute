@@ -49,22 +49,6 @@ hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:5564?security=tls
 hysteria2://ParsV2rayIR@Host.ParsV2ray.Site:2030?security=tls&obfs=salamander&obfs-password=ParsV2rayIR%3AAccPermium&insecure=1&sni=www.google.com#Tel6 Germany
 
 
-hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41419/#China1
-hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41419/#China2
-hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41419/#China3
-hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41369/#China4
-hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41565/#China5
-hysteria2://27d4e350-3258-4557-8906-5d8abb3f3669@sg-sanqianli.pianyi.info:41338/#China6
-
-
-hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41550/#China7
-hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41550/#China8
-hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41550/#China9
-hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41176/#China10
-hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41213/#China11
-hysteria2://2068dc37-9bb1-4789-b9ad-da34a6f5b87b@sg-sanqianli.pianyi.info:41249/#China12
-
-
 hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22116/#new1
 hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22116/#new2
 hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22028/#new3
