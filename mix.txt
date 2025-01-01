@@ -64,12 +64,8 @@ trojan://TzyNd%2AvsX+V1%27%3Aa%3F@new-3fl.pages.dev:2096?alpn=h2%2Chttp%2F1.1&ed
 trojan://TzyNd%2AvsX+V1%27%3Aa%3F@[2606:4700:310c::ac42:2fac]:2096?alpn=h2%2Chttp%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=new-3fl.pages.dev&path=%2FtrKvMGoaIvQPDe8IFM&security=tls&sni=neW-3fL.paGes.Dev&type=ws#Pages Mci 5
 
 
-hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#Tel1
-hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-sgsg.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel2
 hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-hkhk.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel3
 hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-jpjp.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel4
-hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:5564?security=tls&alpn=h3&insecure=1&sni=www.bing.com#Tel5
-hysteria2://ParsV2rayIR@Host.ParsV2ray.Site:2030?security=tls&obfs=salamander&obfs-password=ParsV2rayIR%3AAccPermium&insecure=1&sni=www.google.com#Tel6 Germany
 
 
 hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22116/#new1
