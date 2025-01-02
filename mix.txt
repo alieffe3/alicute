@@ -88,3 +88,11 @@ ss://2022-blake3-aes-256-gcm:NmQ4YzMwZGIzZDkzYzhmMTRmZmIzOGU1ZWRiOGRmOTM=%3AYzg4
 hysteria2://2bec0516-55ed-4513-8823-0b0f5f99ad85@hkzl2.stardad.lol:24976/?insecure=1&sni=https%3A%2F%2Fbing.com#%F0%9F%87%AD%F0%9F%87%B0%2031-01
 hysteria2://2bec0516-55ed-4513-8823-0b0f5f99ad85@jpzl2.stardad.lol:48512/?insecure=1&sni=https%3A%2F%2Fbing.com#%F0%9F%87%AF%F0%9F%87%B5%2031-01
 hysteria2://2bec0516-55ed-4513-8823-0b0f5f99ad85@uszl1.stardad.lol:25999/?insecure=1&sni=https%3A%2F%2Fbing.com#%F0%9F%87%BA%F0%9F%87%B8%2031-01
+
+
+hy2://3f9096df-4656-49e9-870b-2c50d89f3e7a@fffmg.naisicloud.xyz:35600/?insecure=1&sni=fffmg.naisicloud.xyz#02-02-2025
+hy2://3f9096df-4656-49e9-870b-2c50d89f3e7a@fffmg.naisicloud.xyz:35600/?insecure=1&sni=fffmg.naisicloud.xyz#02-02-2025
+hy2://3f9096df-4656-49e9-870b-2c50d89f3e7a@fffmg.naisicloud.xyz:35600/?insecure=1&sni=fffmg.naisicloud.xyz#02-02-2025
+hy2://3f9096df-4656-49e9-870b-2c50d89f3e7a@fffmg.naisicloud.xyz:35600/?insecure=1&sni=fffmg.naisicloud.xyz#02-02-2025
+hy2://3f9096df-4656-49e9-870b-2c50d89f3e7a@hhhk.naisicloud.xyz:35600/?insecure=1&sni=hhhk.naisicloud.xyz#02-02-2025
+hy2://3f9096df-4656-49e9-870b-2c50d89f3e7a@jjjp.naisicloud.xyz:35600/?insecure=1&sni=jjjp.naisicloud.xyz#02-02-2025
