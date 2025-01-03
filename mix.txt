@@ -11,6 +11,8 @@ hysteria2://Telegram:%40KevinZakarian@kevin.iserver.store:8443?obfs=salamander&o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVE1JaTFzRXBaUGlZSGJvRVc3WDgw@176.124.221.3:10488/?outline=1#TelBot 🇩🇪
 
 
+vmess://eyJhZGQiOiIxMDQuMjEuMzIuMSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0IjoiZXpvLmpoYnFtdHd0bS5jb20iLCJpZCI6ImRmZGI0ZmFkLTUzNWUtNDQwOC1hNzRiLTdjM2NlMTE4YmQ0MiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkFyZ29WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiZXpvLmpoYnFtdHd0bS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
 trojan://ALi198237@104.16.90.245:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 1
 trojan://ALi198237@104.24.179.180:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 2
 trojan://ALi198237@104.16.37.70:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 3
