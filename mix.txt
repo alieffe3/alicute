@@ -52,6 +52,17 @@ vless://f23db53e-cc39-414a-9d21-d947ca870f4e@104.24.151.208:443?path=%2F%3Fed%3D
 vless://f23db53e-cc39-414a-9d21-d947ca870f4e@190.93.244.27:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 6
 
 
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@edge.xdarkmindx20.workers.dev:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2Ftv2odqok9ub&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@edge.xdarkmindx20.workers.dev:8080?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2Ftv2odqok9ub&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@edge.xdarkmindx20.workers.dev:2052?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2Ftv2odqok9ub&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@edge.xdarkmindx20.workers.dev:2082?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2Ftv2odqok9ub&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@turk.radicalization.ir:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2F&security=tls&sni=edge.xdarkmindx20.workers.dev&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@turk.radicalization.ir:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2F&security=tls&sni=edge.xdarkmindx20.workers.dev&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@turk.radicalization.ir:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2F&security=tls&sni=edge.xdarkmindx20.workers.dev&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@turk.radicalization.ir:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2F&security=tls&sni=edge.xdarkmindx20.workers.dev&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@edge.xdarkmindx20.workers.dev:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2F&security=tls&sni=edge.xdarkmindx20.workers.dev&type=ws#edge%20xdark%20worker
+vless://b452d28f-bd4e-4b3b-ad08-bc967cf67ef5@turk.radicalization.ir:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=edge.xdarkmindx20.workers.dev&path=%2F&security=tls&sni=edge.xdarkmindx20.workers.dev&type=ws#edge%20xdark%20worker
+
 vless://586e877e-dad3-449e-a1f5-59671f124d24@new-3fl.pages.dev:443?alpn=h2%2Chttp%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=new-3fl.pages.dev&path=%2FwErxn17VVLQACxjV&security=tls&sni=neW-3Fl.pAgES.DEv&type=ws#Pages 1
 vless://586e877e-dad3-449e-a1f5-59671f124d24@www.speedtest.net:443?alpn=h2%2Chttp%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=new-3fl.pages.dev&path=%2FMTKkXvc7lr7lYbYa&security=tls&sni=new-3Fl.paGes.dev&type=ws#Pages 2
 vless://586e877e-dad3-449e-a1f5-59671f124d24@172.66.44.84:443?alpn=h2%2Chttp%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=new-3fl.pages.dev&path=%2FTlfnsQL6dASDuGPT&security=tls&sni=NEw-3Fl.pAgES.dEv&type=ws#Pages 3
