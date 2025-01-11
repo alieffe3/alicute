@@ -78,16 +78,6 @@ trojan://TzyNd%2AvsX+V1%27%3Aa%3F@new-3fl.pages.dev:2096?alpn=h2%2Chttp%2F1.1&ed
 trojan://TzyNd%2AvsX+V1%27%3Aa%3F@[2606:4700:310c::ac42:2fac]:2096?alpn=h2%2Chttp%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=new-3fl.pages.dev&path=%2FtrKvMGoaIvQPDe8IFM&security=tls&sni=neW-3fL.paGes.Dev&type=ws#Mci Pages 5
 
 
-hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-hkhk.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel3
-hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-jpjp.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Tel4
-
-hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22116/#new1
-hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22116/#new2
-hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22028/#new3
-hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-hk.legeth.xyz:22722/#new4
-hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-kr.legeth.xyz:22207/#new5
-hysteria2://3e784b28-b7c7-4f19-84b7-b43745ae908e@sanguayun-uk.legeth.xyz:22308/#new6
-
 
 ss://2022-blake3-aes-256-gcm:NmQ4YzMwZGIzZDkzYzhmMTRmZmIzOGU1ZWRiOGRmOTM=%3AZjFhYzIxM2UtOGI0Ni00OTM4LWE4MDMtYTk3NDIyYWM=@74.48.84.61:41711#Shadow%2031-01-2025
 ss://2022-blake3-aes-256-gcm:NmQ4YzMwZGIzZDkzYzhmMTRmZmIzOGU1ZWRiOGRmOTM=%3AZjFhYzIxM2UtOGI0Ni00OTM4LWE4MDMtYTk3NDIyYWM=@74.48.84.61:41427#Shadow%2031-01-2025
