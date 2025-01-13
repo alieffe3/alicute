@@ -1,9 +1,9 @@
-hy2://5a072771500faceb@150.241.77.174:33344/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f64fc97d84ec14cf#%F0%9F%87%B8%F0%9F%87%AA
-hy2://5a072771500faceb@[2a0b:4140:e6c5::2]:33344/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f64fc97d84ec14cf#%F0%9F%87%B8%F0%9F%87%AA%20%281%29
-hy2://36a78e623720090d@150.241.77.178:22233/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=108ecb57dc7a7694#%F0%9F%87%B8%F0%9F%87%AA%20%282%29
-hy2://36a78e623720090d@[2a0b:4140:e6c6::2]:22233/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=108ecb57dc7a7694#%F0%9F%87%B8%F0%9F%87%AA%20%283%29
-hy2://c76f08e20fb6368b@150.241.77.182:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=64da92df31fc63c1#%F0%9F%87%B8%F0%9F%87%AA%20%284%29
-hy2://c76f08e20fb6368b@[2a0b:4140:e6c7::2]:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=64da92df31fc63c1#%F0%9F%87%B8%F0%9F%87%AA%20%285%29
+hysteria2://2b78beab8804a0a2@103.249.134.26:12121/?insecure=1&obfs=salamander&obfs-password=4606e63358e00feb&sni=www.google.com#%F0%9F%87%B8%F0%9F%87%AA%20%280%29
+hysteria2://2b78beab8804a0a2@[2a01:e5c0:65a7::2]:12121/?insecure=1&obfs=salamander&obfs-password=4606e63358e00feb&sni=www.google.com#%F0%9F%87%B8%F0%9F%87%AA%20%281%29
+hysteria2://22f2c759db51b3d0@109.120.135.123:12122/?insecure=1&obfs=salamander&obfs-password=de8287cd33b05fa3&sni=www.google.com#%F0%9F%87%B8%F0%9F%87%AA%20%282%29
+hysteria2://22f2c759db51b3d0@[2a01:e5c0:65a8::2]:12122/?insecure=1&obfs=salamander&obfs-password=de8287cd33b05fa3&sni=www.google.com#%F0%9F%87%B8%F0%9F%87%AA%20%283%29
+hysteria2://f8e40931bbb827df@62.60.231.189:12123/?insecure=1&obfs=salamander&obfs-password=dbc688df29e582d3&sni=www.google.com#%F0%9F%87%B8%F0%9F%87%AA%20%284%29
+hysteria2://f8e40931bbb827df@[2a01:e5c0:65a6::2]:12123/?insecure=1&obfs=salamander&obfs-password=dbc688df29e582d3&sni=www.google.com#%F0%9F%87%B8%F0%9F%87%AA%20%285%29
 
 
 
