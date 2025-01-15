@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Tahoma, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(45deg, #ff6b98, #8f42fb);
+            overflow: hidden;
+        }
+
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            width: 90%;
+            max-width: 400px;
+            text-align: center;
+            position: relative;
+            z-index: 1;
+        }
+
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 5px solid white;
+            position: absolute;
+            top: -75px;
+            left: 50%;
+            transform: translateX(-50%);
+            object-fit: cover;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            margin-top: 60px;
+            color: #333;
+            font-size: 2rem;
+            animation: bounce 2s infinite;
+        }
+
+        .message {
+            margin: 1rem 0;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .countdown {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .countdown-item {
+            background: #f8f1ff;
+            padding: 1rem;
+            border-radius: 10px;
+        }
+
+        .number {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #8f42fb;
+        }
+
+        .label {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 0.5rem;
+        }
+
+        .floating-image {
+            position: fixed;
+            top: -300px;
+            width: 300px;
+            height: 400px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            z-index: 2;
+            opacity: 0.9;
+            pointer-events: none;
+        }
+
+        @keyframes floatDown {
+            0% {
+                transform: translateY(0) rotate(0deg) scale(1);
+                opacity: 0;
+            }
+            10% {
+                opacity: 0.9;
+                transform: translateY(10vh) rotate(45deg) scale(1);
+            }
+            30% {
+                transform: translateY(30vh) rotate(-45deg) scale(0.9);
+            }
+            50% {
+                transform: translateY(50vh) rotate(90deg) scale(0.9);
+            }
+            70% {
+                transform: translateY(70vh) rotate(-90deg) scale(0.8);
+            }
+            90% {
+                opacity: 0.9;
+                transform: translateY(90vh) rotate(180deg) scale(0.8);
+            }
+            100% {
+                transform: translateY(120vh) rotate(360deg) scale(0.7);
+                opacity: 0;
+            }
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-20px);
+            }
+            60% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .confetti {
+            position: fixed;
+            width: 10px;
+            height: 10px;
+            background: #ff6b98;
+            animation: confetti 5s ease-in-out infinite;
+        }
+
+        @keyframes confetti {
+            0% {
+                transform: translateY(0) rotate(0deg);
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(100vh) rotate(720deg);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <audio autoplay loop id="birthday-music">
+        <source src="YOUR_MUSIC_FILE.mp3" type="audio/mp3">
+        مرورگر شما از پخش موزیک پشتیبانی نمی‌کند.
+    </audio>
+
+    <div class="card">
+        <img src="https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/IMG_20240728_191447_963.jpg" alt="تصویر تولد" class="profile-img">
+        <h1>تولدت مبارک :)</h1>
+        <p class="message">امیدوارم سال جدید زندگیت پر از شادی و موفقیت باشه</p>
+        
+        <div class="countdown">
+            <div class="countdown-item">
+                <div class="number" id="days">0</div>
+                <div class="label">روز</div>
+            </div>
+            <div class="countdown-item">
+                <div class="number" id="hours">0</div>
+                <div class="label">ساعت</div>
+            </div>
+            <div class="countdown-item">
+                <div class="number" id="minutes">0</div>
+                <div class="label">دقیقه</div>
+            </div>
+            <div class="countdown-item">
+                <div class="number" id="seconds">0</div>
+                <div class="label">ثانیه</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    let birthday = new Date('2024-12-21T00:00:00+03:30');
+
+    function updateCountdown() {
+        const now = new Date().getTime();
+        let distance = birthday.getTime() - now;
+
+        if (distance < 0) {
+            birthday.setFullYear(birthday.getFullYear() + 1);
+            distance = birthday.getTime() - now;
+        }
+
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        document.getElementById('days').textContent = days;
+        document.getElementById('hours').textContent = hours;
+        document.getElementById('minutes').textContent = minutes;
+        document.getElementById('seconds').textContent = seconds;
+    }
+
+    setInterval(updateCountdown, 1000);
+    updateCountdown();
+
+        function createConfetti() {
+            const confetti = document.createElement('div');
+            confetti.classList.add('confetti');
+            confetti.style.left = Math.random() * 100 + 'vw';
+            confetti.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
+            document.body.appendChild(confetti);
+            
+            setTimeout(() => {
+                confetti.remove();
+            }, 5000);
+        }
+
+        setInterval(createConfetti, 300);
+
+        const images = [
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/IMG_20241213_150347_678.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/1730532029784_sldgim_2_1.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/IMG_20240807_232334_188.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/IMG_20240912_150213_928.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/1730534066834_x9ay4b_2_1.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/IMG_20240913_171220.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/hadiws_rh2_14030908_215834157.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/1730532898333_dchu4f_2_1.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/hadiws_rh2_14030619_010901419.jpg',
+            'https://raw.githubusercontent.com/alieffe3/alicute/refs/heads/main/IMG_20240913_171220.jpg'
+        ];
+
+        let lastPosition = null;
+
+        function createFloatingImage() {
+            const img = document.createElement('img');
+            img.src = images[Math.floor(Math.random() * images.length)];
+            img.classList.add('floating-image');
+
+            let newPosition;
+            do {
+                newPosition = Math.random() * (window.innerWidth - 300);
+            } while (lastPosition !== null && Math.abs(newPosition - lastPosition) < 200);
+            
+            lastPosition = newPosition;
+            img.style.left = newPosition + 'px';
+            
+            const duration = 8 + Math.random() * 4;
+            img.style.animation = `floatDown ${duration}s linear forwards`;
+            
+            document.body.appendChild(img);
+            
+            setTimeout(() => {
+                img.remove();
+            }, duration * 1000);
+        }
+
+        setInterval(createFloatingImage, 3000);
+
+        window.onload = function() {
+            var music = document.getElementById('birthday-music');
+            music.play();
+            
+            for(let i = 0; i < 3; i++) {
+                setTimeout(() => createFloatingImage(), i * 1000);
+            }
+        }
+    </script>
+</body>
+</html>
