@@ -6,7 +6,6 @@ hysteria2://f8e40931bbb827df@62.60.231.189:12123/?insecure=1&obfs=salamander&obf
 hysteria2://f8e40931bbb827df@[2a01:e5c0:65a6::2]:12123/?insecure=1&obfs=salamander&obfs-password=dbc688df29e582d3&sni=www.google.com#%F0%9F%87%B8%F0%9F%87%AA%20%285%29
 
 
-
 hysteria2://Telegram:%40KevinZakarian@kevin.iserver.store:8443?obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#KevinVPN
 
 
