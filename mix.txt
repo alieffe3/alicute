@@ -148,3 +148,15 @@ hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-tw.jiumaojiu.org:4906
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49660/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49913/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49026/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
+
+
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@160.16.109.154:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tk-v009.tama22.com&type=tcp#TK-V009%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@133.167.72.164:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=os-v018.tama22.com&type=tcp#OS-V018%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@49.212.216.50:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=os-v010.tama22.com&type=tcp#OS-V010%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@133.167.73.31:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=os-v015.tama22.com&type=tcp#OS-V015%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@160.16.94.131:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tk-v019.tama22.com&type=tcp#TK-V019%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@160.16.152.77:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tk-v012.tama22.com&type=tcp#TK-V012%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@160.16.131.171:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tk-v007.tama22.com&type=tcp#TK-V007%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@153.121.72.12:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tk-v018.tama22.com&type=tcp#TK-V018%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@49.212.147.148:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=os-v007.tama22.com&type=tcp#OS-V007%2009-02-2025
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@219.94.242.14:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=os-v005.tama22.com&type=tcp#OS-V005%2009-02-2025
