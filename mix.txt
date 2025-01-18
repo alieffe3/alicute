@@ -137,3 +137,14 @@ hysteria2://3945ad52-bd74-4360-afd4-f8219eb63617@us1.yiyuanlx.cc:34560/?insecure
 hysteria2://3945ad52-bd74-4360-afd4-f8219eb63617@us1.yiyuanlx.cc:34560/?insecure=1&sni=us1.yiyuanlx.cc#17-02-2025
 hysteria2://3945ad52-bd74-4360-afd4-f8219eb63617@us1.yiyuanlx.cc:34560/?insecure=1&sni=us1.yiyuanlx.cc#17-02-2025
 hysteria2://3945ad52-bd74-4360-afd4-f8219eb63617@us1.yiyuanlx.cc:34560/?insecure=1&sni=us1.yiyuanlx.cc#17-02-2025
+
+
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-hk.jiumaojiu.org:49015/#%F0%9F%87%AD%F0%9F%87%B0%2018-02-2025
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-hk.jiumaojiu.org:49079/#%F0%9F%87%AD%F0%9F%87%B0%2018-02-2025
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-hk.jiumaojiu.org:49870/#%F0%9F%87%AD%F0%9F%87%B0%2018-02-2025
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-tw.jiumaojiu.org:49585/#%F0%9F%87%B9%F0%9F%87%BC%2018-02-2025
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-tw.jiumaojiu.org:49939/#%F0%9F%87%B9%F0%9F%87%BC%2018-02-2025
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-tw.jiumaojiu.org:49068/#%F0%9F%87%B9%F0%9F%87%BC%2018-02-2025
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49660/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49913/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
+hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49026/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
