@@ -96,3 +96,6 @@ hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-tw.jiumaojiu.org:4906
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49660/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49913/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49026/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOV1E0TWpFMA@45.140.167.94:8388#Site 1
