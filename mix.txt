@@ -6,6 +6,8 @@ hy2://f39f16a9c819663f@[2a01:e5c0:65a7::2]:13111/?insecure=1&sni=www.google.com&
 hy2://f39f16a9c819663f@103.249.134.26:13111/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=595491cda040ec2d#freevpnhomes%205
 
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOV1E0TWpFMA@45.140.167.94:8388#1
+
 
 hysteria2://%40KevinZakarian@kevin.iserver.store:443/?insecure=1&obfs=salamander&obfs-password=%40KevinZakarian#%40KevinZakarian
 
@@ -96,6 +98,3 @@ hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-tw.jiumaojiu.org:4906
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49660/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49913/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
 hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:49026/#%F0%9F%87%A8%F0%9F%87%A6%2018-02-2025
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOV1E0TWpFMA@45.140.167.94:8388#Site 1
