@@ -18,8 +18,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiek9zUXlLUXhqcGVicjlTUmRXdFhj@195.200.28.169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNUFxYUt1MVpmMnh0cU5EZElITmRs@77.221.157.56:51279/?outline=1#TelBot🇩🇪
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppb2JWeTdteE9NaVdYVGN4@admin.c2.havij.co:443?outline=1&prefix=POST%20z2b549eG#Bot2
-
 
 trojan://ALi198237@104.16.90.245:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 1
 trojan://ALi198237@104.24.179.180:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 2
