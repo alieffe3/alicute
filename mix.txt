@@ -6,14 +6,6 @@ hy2://f39f16a9c819663f@[2a01:e5c0:65a7::2]:13111/?insecure=1&sni=www.google.com&
 hy2://f39f16a9c819663f@103.249.134.26:13111/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=595491cda040ec2d#freevpnhomes%205
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOV1E0TWpFMA@45.140.167.94:8388#Site 1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkkwTXpNMg==@95.164.68.37:8388#Site 2
-
-
-hysteria2://%40KevinZakarian@kevin.iserver.store:443/?insecure=1&obfs=salamander&obfs-password=%40KevinZakarian#%40KevinZakarian
-
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiek9zUXlLUXhqcGVicjlTUmRXdFhj@195.200.28.169:43727/?outline=1#TelBot🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNUFxYUt1MVpmMnh0cU5EZElITmRs@77.221.157.56:51279/?outline=1#TelBot🇩🇪
 
