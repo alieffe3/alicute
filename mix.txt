@@ -64,3 +64,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@is2.opensocks.site:1443/?plugi
 
 hysteria2://1840d4db-99b1-4704-ac9f-72a0cf8b1df2@93.120.37.172:38546/?insecure=1&sni=xxmg.bbgjc.cc#03-03-2025
 hysteria2://1840d4db-99b1-4704-ac9f-72a0cf8b1df2@62.216.93.33:38546/?insecure=1&sni=xxyg.bbgjc.cc#03-03-2025
+
+hysteria2://e7d04d92-c2c4-46d7-9ceb-8d90a54160cd@mg2.wuxianjc.top:3335?security=tls&insecure=1&sni=mg2.wuxianjc.top#06-03-2025
+hysteria2://e7d04d92-c2c4-46d7-9ceb-8d90a54160cd@adly1.wuxianjc.top:3330?security=tls&insecure=1&sni=adly1.wuxianjc.top#06-03-2025
