@@ -60,3 +60,7 @@ hysteria2://489d5162-12f4-493e-ba85-93205468bf81@xinyiyuan-ca.jiumaojiu.org:4902
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@is2.opensocks.site:8388#S3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@is2.opensocks.site:8139/?plugin=obfs-local;obfs=http;obfs-host=ct.cloudflare.com;obfs-uri=/#S2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@is2.opensocks.site:1443/?plugin=obfs-local;obfs=tls;obfs-host=ct.cloudflare.com;obfs-uri=/#S1
+
+
+hysteria2://1840d4db-99b1-4704-ac9f-72a0cf8b1df2@93.120.37.172:38546/?insecure=1&sni=xxmg.bbgjc.cc#03-03-2025
+hysteria2://1840d4db-99b1-4704-ac9f-72a0cf8b1df2@62.216.93.33:38546/?insecure=1&sni=xxyg.bbgjc.cc#03-03-2025
