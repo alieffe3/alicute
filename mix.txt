@@ -67,3 +67,9 @@ hysteria2://1840d4db-99b1-4704-ac9f-72a0cf8b1df2@62.216.93.33:38546/?insecure=1&
 
 hysteria2://e7d04d92-c2c4-46d7-9ceb-8d90a54160cd@mg2.wuxianjc.top:3335?security=tls&insecure=1&sni=mg2.wuxianjc.top#06-03-2025
 hysteria2://e7d04d92-c2c4-46d7-9ceb-8d90a54160cd@adly1.wuxianjc.top:3330?security=tls&insecure=1&sni=adly1.wuxianjc.top#06-03-2025
+
+
+hysteria2://69cb2f1e-4c7a-4f35-84a5-6b111afadbaa@sanyuandian-us.sanguayun.com:12409?security=tls&insecure=0&mport=12001-12999#23-12-1403
+hysteria2://69cb2f1e-4c7a-4f35-84a5-6b111afadbaa@sanyuandian-hk.sanguayun.com:12103?security=tls&insecure=0&mport=12001-12999#23-12-1403%20%F0%9F%87%A8%F0%9F%87%B3
+hysteria2://69cb2f1e-4c7a-4f35-84a5-6b111afadbaa@sanyuandian-jp.sanguayun.com:12316?security=tls&insecure=0&mport=12001-12999#23-12-1403%20%F0%9F%87%AF%F0%9F%87%B5
+hysteria2://69cb2f1e-4c7a-4f35-84a5-6b111afadbaa@sanyuandian-nl.sanguayun.com:12859?security=tls&insecure=0&mport=12001-12999#23-12-1403%20%F0%9F%87%B3%F0%9F%87%B1
