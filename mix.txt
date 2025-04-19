@@ -2,32 +2,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiek9zUXlLUXhqcGVicjlTUmRXdFhj@195.200.28.169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNUFxYUt1MVpmMnh0cU5EZElITmRs@77.221.157.56:51279/?outline=1#TelBot🇩🇪
 
 
-
-trojan://ALi198237@104.16.90.245:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 1
-trojan://ALi198237@104.24.179.180:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 2
-trojan://ALi198237@104.16.37.70:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 3
-trojan://ALi198237@104.24.159.176:443?path=%2F%3Fed%3D2560&security=tls&host=yaghi.pages.dev&fp=randomized&type=ws&sni=yaghi.pages.dev#all trojan 4
-
-
-trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:443?path=%2FtrD1LfngjlF6ToTvWq%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543e4-mUtE-rIcE-e2C8.aLiEFFE72.workERs.DeV#all trojan 5
-trojan://RP7skKMK@www.speedtest.net:443?path=%2FtrBpok7M41AghECPBq%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543E4-mUte-RIcE-E2C8.alIeFfE72.WoRKErS.DEv#all trojan 6
-trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:443?path=%2Ftr9oZlyEZ72mJp1Wo2%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&fp=randomized&type=ws&sni=911543E4-muTE-rICE-E2C8.ALIEFFe72.WOrKERs.dEv#Mci Trojan 1
-trojan://RP7skKMK@172.67.195.233:80?path=%2Ftr2yRralagWtluIfRu%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 7
-trojan://RP7skKMK@[2606:4700:3035::6815:4487]:80?path=%2FtrZj7hCNhpMpdwDZr1%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#Mci Trojan 2
-trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:8080?path=%2Ftrco39V9cKPRqtO9Cv%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 8
-trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:8080?path=%2Ftrgx6AMTs3WnOsQd7N%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#Mci Trojan 3
-trojan://RP7skKMK@104.21.68.135:2052?path=%2FtrQ6C5IBLvK8RCVSpO%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 9
-trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:2086?path=%2Ftraa6YYdsmZFEm8JgV%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 10
-trojan://RP7skKMK@[2606:4700:3033::ac43:c3e9]:8880?path=%2Ftr6GSVQ4prXpYuO7Ns%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#Mci Trojan 4
-trojan://RP7skKMK@911543e4-mute-rice-e2c8.alieffe72.workers.dev:8880?path=%2FtrZxabqkEkOmC6Vfgq%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 11
-trojan://RP7skKMK@www.speedtest.net:2095?path=%2FtrGzxIk9VIsxmTmlZl%3Fed%3D2560&security=none&host=911543e4-mute-rice-e2c8.alieffe72.workers.dev&type=ws#all trojan 12
-
-
-
-vless://f23db53e-cc39-414a-9d21-d947ca870f4e@nazist.pages.dev:443?encryption=none&security=tls&sni=nazist.pages.dev&fp=randomized&type=ws&host=nazist.pages.dev&path=%2F%3Fed%3D2560#edge
-vless://f23db53e-cc39-414a-9d21-d947ca870f4e@103.21.244.200:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 1
-vless://f23db53e-cc39-414a-9d21-d947ca870f4e@104.16.82.8:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 2
-vless://f23db53e-cc39-414a-9d21-d947ca870f4e@104.24.145.95:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 3
-vless://f23db53e-cc39-414a-9d21-d947ca870f4e@104.16.99.92:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 4
-vless://f23db53e-cc39-414a-9d21-d947ca870f4e@104.24.151.208:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 5
-vless://f23db53e-cc39-414a-9d21-d947ca870f4e@190.93.244.27:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nazist.pages.dev&fp=random&type=ws&sni=nazist.pages.dev#Naz 6
