@@ -14,3 +14,6 @@ vless://43c43d88-2419-4f0c-b6ae-db7ca58da4dd@margbarkhamenei.pages.dev:2053?path
 hy2://375219a5-bdd3-43f4-b7c7-a61f9a475b33@yefengusa-ddns-test.yefengjc.xyz:45644/?insecure=1&sni=s0.awsstatic.com&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%93%B6%201404-02-02%20%7C%201
 hy2://375219a5-bdd3-43f4-b7c7-a61f9a475b33@yefengindiamumbai-ddns.yefengjc.xyz:45644/?insecure=1&sni=s0.awsstatic.com&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%93%B6%201404-02-02%20%7C%202
 hy2://375219a5-bdd3-43f4-b7c7-a61f9a475b33@yefengindiamumbai-ddns.yefengjc.xyz:45644/?insecure=1&sni=s0.awsstatic.com&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%93%B6%201404-02-02%20%7C%203
+
+hy2://dfe3698f-3e28-4e08-a407-379452032bdd@103.253.43.173:8080/#1404-02-03%20%7C%201
+hy2://dfe3698f-3e28-4e08-a407-379452032bdd@hk.sinqin.net:8080/#1404-02-03%20%7C%202
