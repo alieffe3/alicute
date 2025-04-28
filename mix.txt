@@ -24,4 +24,5 @@ vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@ru.maviks.eu:443?security=reality&t
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@cdn-nodes.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@nodes.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
-vless://7af0408f-01ea-4f95-bf26-5fa412d00442@45.12.133.236:443?type=tcp&security=reality&pbk=KdAXauN9PqDqCbWP-L9IVsC81EcrSdIe0XXnnv3UO3k&fp=safari&sni=google.com&sid=9885cf&spx=%2F&flow=xtls-rprx-vision#Atlanta
+
+vless://eb98791f-92c2-4007-8261-6ad8fb66fc07@45.15.162.189:443?type=tcp&security=reality&pbk=p3psdvZD2ZDD3ktw7x2ycDxW271mgtbHjhO6kInuCEg&fp=chrome&sni=google.com&sid=52&spx=%2F&flow=xtls-rprx-vision#Atlanta
