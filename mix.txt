@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiek9zUXlLUXhqcGVicjlTUmRXdFhj@195.200.28.169:43727/?outline=1#TelBot🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNUFxYUt1MVpmMnh0cU5EZElITmRs@77.221.157.56:51279/?outline=1#TelBot🇩🇪
 
-vless://eb98791f-92c2-4007-8261-6ad8fb66fc07@94.131.9.159:443?type=tcp&security=reality&pbk=kew-RbBvoKg7iXvBA8QpBQcFThVM3OqMvr639qSJCHQ&fp=chrome&sni=google.com&sid=d8a35b1f8a004ae8&spx=%2F&flow=xtls-rprx-vision#Atlanta🇫🇷
+vless://eb98791f-92c2-4007-8261-6ad8fb66fc07@94.131.9.159:443?type=tcp&security=reality&pbk=kew-RbBvoKg7iXvBA8QpBQcFThVM3OqMvr639qSJCHQ&fp=chrome&sni=google.com&sid=d8a35b1f8a004ae8&spx=%2F&flow=xtls-rprx-vision#AtlantaBot🇫🇷
 
 vless://43c43d88-2419-4f0c-b6ae-db7ca58da4dd@margbarkhamenei.pages.dev:443?path=%2FbRCD8sWWxQHWKipz%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=margbarkhamenei.pages.dev&fp=randomized&type=ws&sni=mARgBaRkHAmENEi.pagES.deV#%F0%9F%92%A6+1+-+VLESS+-+Domain+%3A+443
 vless://43c43d88-2419-4f0c-b6ae-db7ca58da4dd@172.66.46.244:443?path=%2FF5dIxGuAzlLcYhh4%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=margbarkhamenei.pages.dev&fp=randomized&type=ws&sni=MarGBarKHaMEnei.PaGeS.Dev#%F0%9F%92%A6+4+-+VLESS+-+IPv4+%3A+443
