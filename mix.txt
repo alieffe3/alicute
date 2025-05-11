@@ -13,7 +13,6 @@ vless://43c43d88-2419-4f0c-b6ae-db7ca58da4dd@172.66.45.12:2096?path=%2FkmnrEmIB3
 vless://43c43d88-2419-4f0c-b6ae-db7ca58da4dd@margbarkhamenei.pages.dev:2053?path=%2FKHMod7U36uOL2ot2%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=margbarkhamenei.pages.dev&fp=randomized&type=ws&sni=maRGbaRkhAMeNEi.pagEs.DEv#%F0%9F%92%A6+13+-+VLESS+-+Domain+%3A+2053
 
 
-
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@a.nl.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@cdn-nodes.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve
