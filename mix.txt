@@ -1,20 +1,25 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiek9zUXlLUXhqcGVicjlTUmRXdFhj@195.200.28.169:43727/?outline=1#TelBot🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNUFxYUt1MVpmMnh0cU5EZElITmRs@77.221.157.56:51279/?outline=1#TelBot🇩🇪
-
-
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@185.193.158.11:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam1
-
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@194.127.173.200:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam2
-
-
 vless://eb98791f-92c2-4007-8261-6ad8fb66fc07@45.15.162.189:443?type=tcp&security=reality&pbk=p3psdvZD2ZDD3ktw7x2ycDxW271mgtbHjhO6kInuCEg&fp=chrome&sni=google.com&sid=52&spx=%2F&flow=xtls-rprx-vision#AtlantaBot🇨🇿
 
-vless://36d7c08f-7e83-47f5-9b43-b0137d224992@185.170.154.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot🇩🇪
 
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@a.nl.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@cdn-nodes.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@nodes.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://36d7c08f-7e83-47f5-9b43-b0137d224992@ne6.iovpn.click:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot 1🇩🇪
+vless://36d7c08f-7e83-47f5-9b43-b0137d224992@185.170.154.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot 2🇩🇪
+
+
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@a.nl.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 1
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@185.193.158.11:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 2
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@194.127.173.200:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 3
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@194.49.53.186:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 4
+
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia 1
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@109.120.189.30:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia 2
+
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@cdn-nodes.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve 1
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@172.67.173.29:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve 2
+
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@nodes.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany 1
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@45.150.174.85:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany 2
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@91.238.82.242:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany 3
+vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@45.150.174.87:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany 4
 
 
 vless://43c43d88-2419-4f0c-b6ae-db7ca58da4dd@margbarkhamenei.pages.dev:443?path=%2FbRCD8sWWxQHWKipz%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=margbarkhamenei.pages.dev&fp=randomized&type=ws&sni=mARgBaRkHAmENEi.pagES.deV#%F0%9F%92%A6+1+-+VLESS+-+Domain+%3A+443
