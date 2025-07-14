@@ -25,6 +25,9 @@ vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@45.150.174.87:443?security=reality&
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914/?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&sni=www.google.com#0.%F0%9F%94%A5FREE%20HOMES%20VPN%F0%9F%94%A5
 
 
+vless://744a00cb-6289-4755-9e74-9afe03070417@77.110.113.203:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%A5%B7SpartaVIP
+
+
 hysteria2://%40KevinZakarian@185.141.216.99:11001/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#@h1
 vless://a47aa6bd-2486-4a61-8c7d-ab238d14127d@185.141.216.99:11002?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=gallery.sourceforge.net&path=%2Fws&pbk=KdDt9V7ROFUUWvykJhAsTeaphLbu3M3rr5DdbHNi1Gc&security=reality&sid=614f&sni=gallery.sourceforge.net&type=httpupgrade#@v1
 
