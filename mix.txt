@@ -1,9 +1,6 @@
 vless://eb98791f-92c2-4007-8261-6ad8fb66fc07@45.15.162.189:443?type=tcp&security=reality&pbk=p3psdvZD2ZDD3ktw7x2ycDxW271mgtbHjhO6kInuCEg&fp=chrome&sni=google.com&sid=52&spx=%2F&flow=xtls-rprx-vision#AtlantaBot🇨🇿
 
 
-vless://36d7c08f-7e83-47f5-9b43-b0137d224992@ne6.iovpn.click:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot 1🇩🇪
-vless://36d7c08f-7e83-47f5-9b43-b0137d224992@185.170.154.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot 2🇩🇪
-
 
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@a.nl.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 1
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@185.193.158.11:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 2
