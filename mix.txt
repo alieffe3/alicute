@@ -53,3 +53,9 @@ vless://635a99a1-1082-4907-b3a6-53c4e195ed2d@50.114.206.150:11002?encryption=non
 
 hysteria2://%40KevinZakarian@50.114.206.151:11001/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#h9
 vless://de96ac4b-1495-4654-c56f-e965f4323522@50.114.206.151:11002?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=gallery.sourceforge.net&path=%2Fws&pbk=Dxl0WHYsVbAuGbvN4C2lHfPYn-lumR6amR2NeD4HAWE&security=reality&sid=fea2&sni=gallery.sourceforge.net&type=httpupgrade#v9
+
+
+hysteria2://BZnk2SlPkq@144.172.106.192:8443/?insecure=1&obfs=salamander&obfs-password=TabassomDreams#KasraVPN
+
+
+hysteria2://%40KevinZakarian@129.212.182.3:8443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#BenVPN
