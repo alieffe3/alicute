@@ -1,11 +1,6 @@
 vless://920d4727-1262-4368-b942-ff3ec50e26d9@45.88.183.133:443?security=reality&encryption=none&pbk=Nmf1dMYtEam2_fIFdX8GhiC-Ti6ftoqYbsEdrmVi5kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=c5d8507db46d9dd8#%F0%9F%87%AE%F0%9F%87%B3%20Cacao%20VPN
 
 
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@a.nl.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 1
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@185.193.158.11:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 2
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@194.127.173.200:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 3
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@194.49.53.186:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam 4
-
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia 1
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@109.120.189.30:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia 2
 
@@ -25,7 +20,6 @@ hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914/?insecure=1&ob
 hysteria2://%40KevinZakarian@129.212.182.3:8443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#BenVPN
 
 
-vless://Raketa_641684@89.110.114.198:443?type=tcp&security=reality&fp=chrome&pbk=aYuvjV_5xPq9GGiCE5eq2PU0JZfrr5XgHsgqAPYGDkY&sni=whatsapp.com&sid=ffffffffff&spx=%2F#Raketa 🇳🇱
 
 vless://36d7c08f-7e83-47f5-9b43-b0137d224992@ne6.iovpn.click:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot 1🇩🇪
 
