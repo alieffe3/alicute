@@ -18,6 +18,8 @@ hysteria2://%40KevinZakarian@129.212.182.3:8443/?insecure=1&obfs=salamander&obfs
 
 vless://920d4727-1262-4368-b942-ff3ec50e26d9@45.88.183.133:443?security=reality&encryption=none&pbk=Nmf1dMYtEam2_fIFdX8GhiC-Ti6ftoqYbsEdrmVi5kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=c5d8507db46d9dd8#%F0%9F%87%AE%F0%9F%87%B3%20Cacao%20VPN
 
+vless://a7d95f4f-5b12-4142-8c4a-947bb5d91f27@deu462.unboundworld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de#OpenWorld Bot🇩🇪
+
 vless://36d7c08f-7e83-47f5-9b43-b0137d224992@ne6.iovpn.click:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot 1🇩🇪
 
 vless://36d7c08f-7e83-47f5-9b43-b0137d224992@185.170.154.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot 2🇩🇪
