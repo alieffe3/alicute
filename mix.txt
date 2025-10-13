@@ -132,3 +132,17 @@ vless://0efece1e-a7c9-4d2a-bf3c-f1c7680b589e@lv.iskra-connect.xyz:443?security=r
 vless://0efece1e-a7c9-4d2a-bf3c-f1c7680b589e@kz.connect-iskra.ru:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#%F0%9F%87%B0%F0%9F%87%BF%20iskravpn
 vless://0efece1e-a7c9-4d2a-bf3c-f1c7680b589e@wl1.connect-iskra.ru:443?security=reality&encryption=none&pbk=-kvopvIaDrZ0d4YEZkzstPGN-9TUW24lnWR2B9jmAGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=1aa3846f33f4bd44#%F0%9F%94%90%20iskravpn
 vless://0efece1e-a7c9-4d2a-bf3c-f1c7680b589e@wl2.connect-iskra.ru:443?security=reality&encryption=none&pbk=-kvopvIaDrZ0d4YEZkzstPGN-9TUW24lnWR2B9jmAGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=1aa3846f33f4bd44#%F0%9F%94%90%20iskravpn
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@176.123.5.253:990#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20-%20Chisinau
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.0.182:990#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Muhadhdhib
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@109.61.125.161:990#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20-%20Luxembourg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@109.61.39.28:990#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Almaty
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@138.186.142.81:990#%F0%9F%87%B5%F0%9F%87%A6%20Panama%20-%20Panama%20City
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.1.230:990#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20-%20Mexico%20City
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Pretoria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@176.126.83.158:990#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20-%20Florence
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.219.237.163:990#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20-%20Budapest
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.165.231.25:990#%F0%9F%87%AA%F0%9F%87%A8%20Ecuador%20-%20Quito
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20-%20Riga
