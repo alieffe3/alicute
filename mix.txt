@@ -146,3 +146,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.165.231.25:990#%F0%9F%87%AA%F0%9F%87%A8%20Ecuador%20-%20Quito
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20-%20Riga
+
+
+vless://d120ab4e-a382-4d75-b957-b13c34517025@v20.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://d120ab4e-a382-4d75-b957-b13c34517025@v34.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://d120ab4e-a382-4d75-b957-b13c34517025@v30.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://d120ab4e-a382-4d75-b957-b13c34517025@v01.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://d120ab4e-a382-4d75-b957-b13c34517025@v35.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://745ae84f-5563-4e07-9e8e-c973624a571e@v771.panelse5rver66.ir:443?security=reality&encryption=none&pbk=IGVPa94DlJ1uGa9cR0_yKdwmqYip6nn672_z1oKBjTg&headerType=none&fp=firefox&type=tcp&sni=chatgpt.com&sid=f3#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://3d4cdbd4-7e0d-4baf-a743-c698690c8beb@v72.kiabiaa.ir:443?security=reality&encryption=none&pbk=QmwUlN1c7LBcJsKbPiqwLrjanz3HlLdDLfA7BqxdulQ&headerType=none&fp=firefox&type=tcp&sni=chatgpt.com&sid=f3#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://9b4fdb65-dc35-4370-92a5-f7fae167c1b3@v73.server1net.ir:443?security=reality&encryption=none&pbk=rsmZ5QUfeliHVZpK3D3OIPgHAxeRRt6X32vMEQ2_Gls&headerType=none&fp=firefox&type=tcp&sni=chatgpt.com&sid=f3#%F0%9F%87%A9%F0%9F%87%AA%20Germany
