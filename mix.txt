@@ -164,3 +164,9 @@ vless://9b4fdb65-dc35-4370-92a5-f7fae167c1b3@v73.server1net.ir:443?security=real
 vless://65a792ae-a8a1-4892-9ca9-305886346f58@simorgh05.pro1s10.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Wolf
 vless://65a792ae-a8a1-4892-9ca9-305886346f58@simorgh15.pro1s10.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Wolf
 vless://2a7fd05c-3989-4c87-8d4c-be58107f51ca@sw1.gatesrover.ir:443?security=reality&encryption=none&pbk=d2zvOi91AQEY0cHTjyAcg5WX5bSGdw3fDXaj51dQQgg&headerType=none&fp=firefox&type=tcp&sni=chatgpt.com&sid=d882c6c7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Wolf
+
+
+hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21292?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
+hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21147?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
+hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21614?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
+hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21877?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
