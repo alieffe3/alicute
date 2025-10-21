@@ -166,10 +166,7 @@ vless://65a792ae-a8a1-4892-9ca9-305886346f58@simorgh15.pro1s10.ir:8080?security=
 vless://2a7fd05c-3989-4c87-8d4c-be58107f51ca@sw1.gatesrover.ir:443?security=reality&encryption=none&pbk=d2zvOi91AQEY0cHTjyAcg5WX5bSGdw3fDXaj51dQQgg&headerType=none&fp=firefox&type=tcp&sni=chatgpt.com&sid=d882c6c7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Wolf
 
 
-hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21292?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
-hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21147?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
-hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21614?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
-hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21877?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@188.214.157.30:990#%F0%9F%87%B2%F0%9F%87%A6%20Morocco%202025-11-21
 
 
 hysteria2://aeed78d4-b6fd-4a3f-ab6a-290068336e02@mg1.mutoujs.top:30000?security=tls&obfs=salamander&obfs-password=CBUfj671qRCz40wJ&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%202025-11-21
