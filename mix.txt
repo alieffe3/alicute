@@ -170,3 +170,7 @@ hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21292?s
 hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21147?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
 hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21614?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
 hysteria2://1746cabc-e89b-4794-b37e-a66f72a339fa@us.xn--9kqy68chx3a.shop:21877?security=tls&insecure=0&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8%202025-11-20
+
+
+hysteria2://aeed78d4-b6fd-4a3f-ab6a-290068336e02@mg1.mutoujs.top:30000?security=tls&obfs=salamander&obfs-password=CBUfj671qRCz40wJ&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%202025-11-21
+hysteria2://aeed78d4-b6fd-4a3f-ab6a-290068336e02@mg2.mutoujs.top:30000?security=tls&obfs=salamander&obfs-password=k2kWs50ZA3nt5YQU&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%202025-11-21
