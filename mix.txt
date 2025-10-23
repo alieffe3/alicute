@@ -163,3 +163,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 
 hysteria2://aeed78d4-b6fd-4a3f-ab6a-290068336e02@mg1.mutoujs.top:30000?security=tls&obfs=salamander&obfs-password=CBUfj671qRCz40wJ&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%202025-11-21
 hysteria2://aeed78d4-b6fd-4a3f-ab6a-290068336e02@mg2.mutoujs.top:30000?security=tls&obfs=salamander&obfs-password=k2kWs50ZA3nt5YQU&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%202025-11-21
+
+
+vless://73a2fa08-d782-4e10-8e3b-d5db6a8110ce@tgju.org:80?security=none&encryption=none&host=cONcisE-hapPIneSs.ecOTOUrIss.co.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A8%F0%9F%87%A6
+vless://fa7a47b9-4086-43c3-a81e-07b0f5bce5de@tgju.org:80?security=none&encryption=none&host=enCHAnTiNG-proPerTY.EcOtoUrIss.CO.uk&type=ws#VPN%20Chi%20%F0%9F%87%A8%F0%9F%87%A6
+vless://c735db58-349f-4fde-b3dc-15e26f04bd02@tgju.org:80?security=none&encryption=none&host=lOGicAL-nAME.ECOTOurIss.cO.uK&type=ws#VPN%20Chi%20%F0%9F%87%A8%F0%9F%87%A6
+vless://f59549e9-8039-4b48-aad2-37f4321b84c8@tgju.org:80?security=none&encryption=none&host=ThoUGhTFul-iTEM.oNeEaT.CO&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
+vless://1a9ca32a-92cc-46f4-9c84-a99cfc790bc3@tgju.org:80?security=none&encryption=none&host=giGantIC-EXchanGe.Oneeat.Co&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
+vless://03b9ebad-9125-4720-b80e-93d91014744b@tgju.org:80?security=none&encryption=none&host=BrIlLianT-elEctiON.onEEaT.Co&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
+vless://8a4ab581-7400-4df9-826e-95612be2110b@tgju.org:80?security=none&encryption=none&host=AleRTed-DIFFEReNCE.WindlEr.CO.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
+vless://86ef3abd-f716-4a2c-8f8b-c7cae15298f6@tgju.org:80?security=none&encryption=none&host=CLEAR-hEaDed-DaTA.WindlER.Co.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
+vless://471cebdd-b359-4a51-aa26-4a9d41fda95b@tgju.org:80?security=none&encryption=none&host=awesOMe-BuTtER.winDlEr.Co.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
+vless://f208d0db-68c2-4be2-98bd-5be4a91c38f7@tgju.org:80?security=none&encryption=none&host=LOnELy-arMy.WindLer.Co.uK&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
+vless://d3243c04-d627-4829-914c-7fffc605b0ff@tgju.org:80?security=none&encryption=none&host=DeFEaTeD-groUP.windlER.Co.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
+vless://7dc5b6ed-ca28-4cb2-a60a-562d49b03b57@tgju.org:80?security=none&encryption=none&host=MaSSIve-CONNeCTION.sPoRtLanD.compaNY&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
+vless://6dec8796-8466-4786-924d-db1bf4d24338@tgju.org:80?security=none&encryption=none&host=BEnign-ForTUNE.sporTLaNd.CompANY&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
+vless://44af3c83-0c2f-4f31-b5d9-6151ed57138a@tgju.org:80?security=none&encryption=none&host=GLEaMiNG-cITy.sPOrtland.cOMPaNy&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
+vless://dfc22ca0-c713-4764-a189-1255d3dd8854@tgju.org:80?security=none&encryption=none&host=mAGNiFIcEnt-DeBatE.SpORtLAND.compaNY&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
