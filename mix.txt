@@ -152,7 +152,7 @@ vless://fa-484226299-1758477278746107@85.239.147.77:443?security=reality&encrypt
 vless://fa-484226299-1758477278746107@89.22.229.100:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#%F0%9F%87%B8%F0%9F%87%AA%20YouVpn
 vless://fa-484226299-1758477278746107@195.66.27.198:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=d1d42381ba35#%F0%9F%87%B3%F0%9F%87%B1%20YouVpn
 vless://fa-484226299-1758477278746107@138.124.183.185:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#%F0%9F%87%BA%F0%9F%87%B8%20YouVpn
-vless://fa-484226299-1758477278746107@62.3.12.191:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#%F0%9F%87%B9%F0%9F%87%B7%20YouVpn
+#vless://fa-484226299-1758477278746107@62.3.12.191:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#%F0%9F%87%B9%F0%9F%87%B7%20YouVpn
 vless://fa-484226299-1758477278746107@85.202.192.126:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#%F0%9F%87%B0%F0%9F%87%BF%20YouVpn
 
 
