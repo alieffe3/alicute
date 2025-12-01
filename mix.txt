@@ -4,11 +4,6 @@ vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@109.120.189.30:443?security=reality
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@cdn-nodes.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve 1
 vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@172.67.173.29:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve 2
 
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@nodes.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany 1
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@45.150.174.85:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany 2
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@91.238.82.242:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany 3
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@45.150.174.87:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany 4
-
 
 vless://0efece1e-a7c9-4d2a-bf3c-f1c7680b589e@ge.connect-iskra.ru:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=uuOITKYKB1KbL5U5zNo0A-mMcv5-Qh4YPjJ70zUFxgk&fp=chrome&spx=%2F&type=xhttp&sni=fastsync.xyz&sid=92ac38d4d68dc9e5#%F0%9F%87%A9%F0%9F%87%AAiskra
 vless://0efece1e-a7c9-4d2a-bf3c-f1c7680b589e@univovh.iskra-connect.xyz:443?security=reality&encryption=none&pbk=_u-6IhXt7uYnQJmgM-kK40q8zZrwZg-CFp31MWzhJTA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=powodzenia.xyz&sid=57fa862a5eaf5fef#%F0%9F%87%B5%F0%9F%87%B1iskra
