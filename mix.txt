@@ -64,16 +64,6 @@ vless://36d7c08f-7e83-47f5-9b43-b0137d224992@ne6.iovpn.click:443/?type=tcp&encry
 
 vless://36d7c08f-7e83-47f5-9b43-b0137d224992@185.170.154.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=9kxSzcW8cPAuHw4XFHjsBf4r3tCZzAOOQkgTTAyEmjo&sid=174eed9c#iovpnbot 2🇩🇪
 
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@lb.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2356d1ae4b#%F0%9F%94%84%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@de.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2356d1ae4b#%F0%9F%87%A9%F0%9F%87%AA%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@poland.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2356d1ae4b#%F0%9F%87%B5%F0%9F%87%B1%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@64.188.125.45:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=2356d1ae4b#%F0%9F%87%AB%F0%9F%87%AE%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@fi.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=3f8ad1#%F0%9F%87%AB%F0%9F%87%AE%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@par.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=3f8ad1#%F0%9F%87%AB%F0%9F%87%B7%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@nl-3.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=44103f58#%F0%9F%87%B3%F0%9F%87%B1%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@usa.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=44103f58#%F0%9F%87%BA%F0%9F%87%B8%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@77.221.151.198:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2356d1ae4b#%F0%9F%87%B7%F0%9F%87%BA%20AliusVpn
-
 
 vless://64bbf6ed-29a7-44dd-b1d5-e3fdba28ee9f@194.87.29.240:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=cdnjs.com&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#🇩🇪 Waicorevpn Bot 10Gbps
 vless://64bbf6ed-29a7-44dd-b1d5-e3fdba28ee9f@94.141.123.233:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=cdnjs.com&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#🇩🇪 Waicorevpn Bot 25Gbps
@@ -177,37 +167,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@188.214.157.30:990#%F0%9F%87%B2%F0%9F%87%A6%20Morocco%202025-11-21
 
 
-vless://73a2fa08-d782-4e10-8e3b-d5db6a8110ce@tgju.org:80?security=none&encryption=none&host=cONcisE-hapPIneSs.ecOTOUrIss.co.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A8%F0%9F%87%A6
-vless://fa7a47b9-4086-43c3-a81e-07b0f5bce5de@tgju.org:80?security=none&encryption=none&host=enCHAnTiNG-proPerTY.EcOtoUrIss.CO.uk&type=ws#VPN%20Chi%20%F0%9F%87%A8%F0%9F%87%A6
-vless://c735db58-349f-4fde-b3dc-15e26f04bd02@tgju.org:80?security=none&encryption=none&host=lOGicAL-nAME.ECOTOurIss.cO.uK&type=ws#VPN%20Chi%20%F0%9F%87%A8%F0%9F%87%A6
-vless://f59549e9-8039-4b48-aad2-37f4321b84c8@tgju.org:80?security=none&encryption=none&host=ThoUGhTFul-iTEM.oNeEaT.CO&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
-vless://1a9ca32a-92cc-46f4-9c84-a99cfc790bc3@tgju.org:80?security=none&encryption=none&host=giGantIC-EXchanGe.Oneeat.Co&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
-vless://03b9ebad-9125-4720-b80e-93d91014744b@tgju.org:80?security=none&encryption=none&host=BrIlLianT-elEctiON.onEEaT.Co&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
-vless://8a4ab581-7400-4df9-826e-95612be2110b@tgju.org:80?security=none&encryption=none&host=AleRTed-DIFFEReNCE.WindlEr.CO.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
-vless://86ef3abd-f716-4a2c-8f8b-c7cae15298f6@tgju.org:80?security=none&encryption=none&host=CLEAR-hEaDed-DaTA.WindlER.Co.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
-vless://471cebdd-b359-4a51-aa26-4a9d41fda95b@tgju.org:80?security=none&encryption=none&host=awesOMe-BuTtER.winDlEr.Co.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
-vless://f208d0db-68c2-4be2-98bd-5be4a91c38f7@tgju.org:80?security=none&encryption=none&host=LOnELy-arMy.WindLer.Co.uK&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
-vless://d3243c04-d627-4829-914c-7fffc605b0ff@tgju.org:80?security=none&encryption=none&host=DeFEaTeD-groUP.windlER.Co.Uk&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
-vless://7dc5b6ed-ca28-4cb2-a60a-562d49b03b57@tgju.org:80?security=none&encryption=none&host=MaSSIve-CONNeCTION.sPoRtLanD.compaNY&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
-vless://6dec8796-8466-4786-924d-db1bf4d24338@tgju.org:80?security=none&encryption=none&host=BEnign-ForTUNE.sporTLaNd.CompANY&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
-vless://44af3c83-0c2f-4f31-b5d9-6151ed57138a@tgju.org:80?security=none&encryption=none&host=GLEaMiNG-cITy.sPOrtland.cOMPaNy&type=ws#VPN%20Chi%20%F0%9F%87%B3%F0%9F%87%B1
-vless://dfc22ca0-c713-4764-a189-1255d3dd8854@tgju.org:80?security=none&encryption=none&host=mAGNiFIcEnt-DeBatE.SpORtLAND.compaNY&type=ws#VPN%20Chi%20%F0%9F%87%A9%F0%9F%87%AA
-
-
-vless://7bb7d6cc-fa0b-4c86-bd32-f8084c4b14c1@193.233.19.86:8080?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dl.smnsoft.com#Netherlands%201%20%F0%9F%87%B3%F0%9F%87%B1
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@Colin.ns.cloudflare.com:443?path=%2Fcmyklws&security=tls&encryption=none&host=assets.zxcsoft.org&fp=chrome&type=ws&sni=assets.zxcsoft.org#Netherlands%202%20%F0%9F%87%B3%F0%9F%87%B1
-vless://eede597e-9b02-4d3f-8441-1405c7fe0ff3@193.233.19.243:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=support.smnsoft.com#Netherlands%203%20%F0%9F%87%B3%F0%9F%87%B1
 vless://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dl.frnsoft.com#Turkey%201%20%F0%9F%87%B9%F0%9F%87%B7
 vless://65953938-b0a9-414a-964e-0d07b541465c@45.136.5.18:9090?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=support.frnsoft.com#Turkey%202%20%F0%9F%87%B9%F0%9F%87%B7
-
-
-vless://2fbc9eeb-cca7-4568-aee0-4a5e0a04f926@v72.kiabiaa.ir:443?security=reality&encryption=none&pbk=QmwUlN1c7LBcJsKbPiqwLrjanz3HlLdDLfA7BqxdulQ&headerType=none&fp=firefox&type=tcp&sni=chatgpt.com&sid=f3#V7ProVPN%20%F0%9F%87%A9%F0%9F%87%AA
-vless://2dca16e0-dd1d-407f-829d-ca649a48781c@v73.server1net.ir:443?security=reality&encryption=none&pbk=rsmZ5QUfeliHVZpK3D3OIPgHAxeRRt6X32vMEQ2_Gls&headerType=none&fp=firefox&type=tcp&sni=chatgpt.com&sid=f3#V7ProVPN%20%F0%9F%87%A9%F0%9F%87%AA
-vless://b40d7a78-06fb-4344-a3d4-e1b003965c3b@v25.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#V7ProVPN%20%F0%9F%87%AC%F0%9F%87%A7
-vless://b40d7a78-06fb-4344-a3d4-e1b003965c3b@v36.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#V7ProVPN%20%F0%9F%87%AC%F0%9F%87%A7
-vless://b40d7a78-06fb-4344-a3d4-e1b003965c3b@v34.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#V7ProVPN%20%F0%9F%87%AC%F0%9F%87%A7
-vless://b40d7a78-06fb-4344-a3d4-e1b003965c3b@v14.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#V7ProVPN%20%F0%9F%87%AC%F0%9F%87%A7
-vless://b40d7a78-06fb-4344-a3d4-e1b003965c3b@v31.gatesrider.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#V7ProVPN%20%F0%9F%87%AC%F0%9F%87%A7
 
 
 vless://6db68db6-621c-4f0c-abec-c80d17fd3f1d@best.pineappled.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%E2%9A%A1%EF%B8%8F%F0%9F%91%91%20iovpn
@@ -221,25 +182,6 @@ vless://6db68db6-621c-4f0c-abec-c80d17fd3f1d@ru.pineappled.org:443?encryption=no
 vless://6db68db6-621c-4f0c-abec-c80d17fd3f1d@lv.pineappled.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20iovpn
 vless://6db68db6-621c-4f0c-abec-c80d17fd3f1d@tr.pineappled.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20iovpn
 vless://6db68db6-621c-4f0c-abec-c80d17fd3f1d@usa.pineappled.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20iovpn
-
-
-
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.090227.xyz:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@linux.do:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Linux%20do%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.temu.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Temu%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Cloudflare%20Docs%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#itarmy.com.ua%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#FBI%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#WTO%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Cloudflare%20Support%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Cloudflare%20blog%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Cloudflare%20ns%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Cloudflare%20Developers%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#openai%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#whatismyip%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#npmjs%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Cdnjs%20-%20CloudFlare
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&host=fuckingfangbinxing.ceo-a6b.workers.dev&path=%2F&security=none&type=ws#Csgo%20-%20CloudFlare
 
 
 hysteria2://9ee2edec-7885-4231-888a-870977df694c@iij.mggl.wang:35789/?sni=iij.mggl.wang#%F0%9F%87%AF%F0%9F%87%B5%20Huaxia%201
@@ -272,15 +214,6 @@ vless://fa-484226299-1764058801044168@94.131.101.142:443?security=reality&encryp
 
 vless://id484226299@88.210.52.208:443?security=reality&encryption=none&pbk=U37mf_5iDkQZ2NXdgCHWZ9daajr9HEuw-XXOAI4xuBU&headerType=none&fp=chrome&spx=%2F2QamQBtDwJ73Cfu&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=9d2d#%F0%9F%87%B7%F0%9F%87%BA%20VlessVpn
 vless://id484226299@45.8.146.239:443?security=reality&encryption=none&pbk=TUGWbWIDirGhRrEyPuB8gwxzWLpxfwPAQtV-MowUCyE&headerType=none&fp=chrome&spx=%2FzFm9aFHDsDCcvU7&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4701326c1d#%F0%9F%87%BA%F0%9F%87%B8%20VlessVpn
-
-
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@nl.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=44103f58#%F0%9F%87%B3%F0%9F%87%B1%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@de2.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=2356d1ae4b#%F0%9F%87%A9%F0%9F%87%AA%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@usa.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=3f8ad1#%F0%9F%87%BA%F0%9F%87%B8%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@gaming.aliusvpn.com:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=2356d1ae4b#%F0%9F%87%A9%F0%9F%87%AA%20Gaming%20-%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@usa.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=2356d1ae4b#%F0%9F%A7%A0%20Google%2C%20Sora%20-%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@usa.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=2356d1ae4b#%F0%9F%A7%A0%20Google%2C%20Sora%20-%20AliusVpn
-vless://5df81413-f558-4fbd-8447-818cbc3cbe4d@45.84.222.180:2054?mode=auto&security=none&encryption=none&type=xhttp#%F0%9F%87%AA%F0%9F%87%BA%20AliusVpn
 
 
 vless://eede597e-9b02-4d3f-8441-1405c7fe0ff3@193.233.19.243:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=support.smnsoft.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
