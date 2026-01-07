@@ -69,21 +69,7 @@ vless://fa-484226299-1764058801044168@94.131.101.142:443?security=reality&encryp
 vless://id484226299@88.210.52.208:443?security=reality&encryption=none&pbk=U37mf_5iDkQZ2NXdgCHWZ9daajr9HEuw-XXOAI4xuBU&headerType=none&fp=chrome&spx=%2F2QamQBtDwJ73Cfu&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=9d2d#%F0%9F%87%B7%F0%9F%87%BA%20VlessVpn
 vless://id484226299@45.8.146.239:443?security=reality&encryption=none&pbk=TUGWbWIDirGhRrEyPuB8gwxzWLpxfwPAQtV-MowUCyE&headerType=none&fp=chrome&spx=%2FzFm9aFHDsDCcvU7&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4701326c1d#%F0%9F%87%BA%F0%9F%87%B8%20VlessVpn
 vless://eede597e-9b02-4d3f-8441-1405c7fe0ff3@193.233.19.243:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=support.smnsoft.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.162:57456#SiriusVPN%203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.132:57456#YouTube%20NoAds%201%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.131:57456#YouTube%20NoAds%202%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.26:57456#YouTube%20NoAds%203%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.133:57456#YouTube%20NoAds%204%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.29:57456#YouTube%20NoAds%205%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.30:57456#YouTube%20NoAds%206%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.140:57456#YouTube%20NoAds%207%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.138:57456#YouTube%20NoAds%208%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.27:57456#YouTube%20NoAds%209%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.28:57456#YouTube%20NoAds%2010%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.139:57456#YouTube%20NoAds%2011%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.142:57456#YouTube%20NoAds%2012%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.134:57456#YouTube%20NoAds%2013%20-%20SiriusVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjRjZTAzMDczYWZmNDFi@66.90.90.141:57456#YouTube%20NoAds%2014%20-%20SiriusVPN
+
 
 
 vless://5a52b172-5eb6-42fa-95b0-f3b8e65caec7@free-jp1.trumpyun.pro:35684?security=reality&encryption=none&pbk=ur9fjV3O9tgc0gVIt1cF_aU0u6l5czNL71cuG94ps28&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=blog.api.www.cloudflare.com&sid=c50edabe7618fc50#%F0%9F%87%AF%F0%9F%87%B5%20Japan%201
