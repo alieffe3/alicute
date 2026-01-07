@@ -10,22 +10,22 @@ vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80?ed=1024&eh=Sec-W
 
 
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@usa83.freednet.org:8443?path=%2Fws-vless%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=usa83.freednet.org&type=ws&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20WS
-vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@usa83.freednet.org:8443?security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=grpc-vless&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20gRPC
+
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@usa83.freednet.org:8443?path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20xHTTP
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.23:8443?path=%2Fws-vless%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=usa83.freednet.org&type=ws&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20WS
-vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.23:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=grpc-vless&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20gRPC
+
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.23:8443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20xHTTP
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.24:8443?path=%2Fws-vless%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=usa83.freednet.org&type=ws&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20WS
-vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.24:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=grpc-vless&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20gRPC
+
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.24:8443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20xHTTP
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.14:8443?path=%2Fws-vless%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=usa83.freednet.org&type=ws&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20WS
-vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.14:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=grpc-vless&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20gRPC
+
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.14:8443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20xHTTP
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.31:8443?path=%2Fws-vless%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=usa83.freednet.org&type=ws&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20WS
-vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.31:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=grpc-vless&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20gRPC
+
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.31:8443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20xHTTP
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.30:8443?path=%2Fws-vless%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=usa83.freednet.org&type=ws&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20WS
-vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.30:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=grpc-vless&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20gRPC
+
 vless://96fcbbfb-af4e-4dc4-b859-1569186a1a1e@45.86.74.30:8443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=usa83.freednet.org#xray-1369951%F0%9F%87%BA%F0%9F%87%B8%20xHTTP
 
 
