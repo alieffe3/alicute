@@ -102,3 +102,6 @@ vless://b5a13a4f-7636-4ebf-96b5-8463f580cf43@141.98.189.152:14443?security=reali
 vless://b5a13a4f-7636-4ebf-96b5-8463f580cf43@141.98.189.154:14443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%202%20AllRoadVPN
 vless://b5a13a4f-7636-4ebf-96b5-8463f580cf43@141.98.189.151:14443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%203%20AllRoadVPN
 vless://b5a13a4f-7636-4ebf-96b5-8463f580cf43@141.98.189.153:14443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%204%20AllRoadVPN
+
+
+vless://bcbc5363-4eaf-4f36-96bc-26af3014925a@195.20.230.244:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=reality&sid=&sni=azure.com&type=#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Avovpn
